@@ -25,7 +25,7 @@ SECRET_KEY = '_d8wkpfktk))$@r1hpc4eq(jwxnlcxk)w_!g+x*@t$+_dy1m9_'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-#ALLOWED_HOSTS = ['anryche.pythonanywhere.com'] # For PAW version
+#ALLOWED_HOSTS = ['anryche.pythonanywhere.com'] # For PAW.com version
 ALLOWED_HOSTS = [] # For local version
 
 # Application definition

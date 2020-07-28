@@ -5,19 +5,7 @@
 	<div class="slider">
 		<div class="header clearfix">
 			<a href="index.html" class="logo"></a>
-			<ul class="menu">
-
-				{% for link in links_menu %}
-					<li>
-						<a href="{% url link.href %}"
-							class="{% if request.resolver_match.url_name == link.href %}
-						active
-					{% endif %}">
-				{{ link.name }}
-			</a>
-		</li>
-		{% endfor %}
-			</ul>
+			{% include 'mainapp/include/inc_main_menu.html' %}
 			<a href="#" class="search"></a>
 		</div>
 		<div class="text-slider">

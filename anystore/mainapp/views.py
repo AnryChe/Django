@@ -3,24 +3,23 @@ from django.shortcuts import render
 from dict_from_json import from_json
 from mainapp.models import Product
 
-links_menu = [
-    {'href': 'main', 'name': 'домой'},
-    {'href': 'products', 'name': 'продукты'},
-    {'href': 'contact', 'name': 'контакты'}
-]
+# links_menu = [
+#     {'href': 'main', 'name': 'домой'},
+#     {'href': 'products', 'name': 'продукты'},
+#     {'href': 'contact', 'name': 'контакты'}
+# ]
 
-# links_menu = from_json('links.json')              # Так и не заработал сайт с загрузкой из файла.
+links_menu = from_json('links.json')              # Так и не заработал сайт с загрузкой из файла.
 
-prod_menu = [
-    {'href': 'products_all', 'name': 'все товары'},
-    {'href': 'products_home', 'name': 'для дома'},
-    {'href': 'products_office', 'name': 'для офиса'},
-    {'href': 'products_modern', 'name': 'модерн'},
-    {'href': 'products_classic', 'name': 'классика'}
-]
+# prod_menu = [
+#     {'href': 'products_all', 'name': 'все товары'},
+#     {'href': 'products_home', 'name': 'для дома'},
+#     {'href': 'products_office', 'name': 'для офиса'},
+#     {'href': 'products_modern', 'name': 'модерн'},
+#     {'href': 'products_classic', 'name': 'классика'}
+# ]
 
-
-# prod_menu = from_json('prods.json')               # Аналогично
+prod_menu = from_json('prods.json')               # Аналогично
 
 # Create your views here.
 def main(request):

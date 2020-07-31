@@ -16,11 +16,10 @@ prod_menu = [
 
 
 def dict_to_json(dict, file_name):
-    app_json = json.dumps(dict, ensure_ascii=False)
     with open(f'{file_name}.json', 'w', encoding = 'utf-8') as json_file:
-        json.dump(app_json, json_file)
+        json.dump(dict, json_file)
 
 
 dict_to_json(links_menu, 'links')
-dict_to_json(links_menu, 'prods')
+dict_to_json(prod_menu, 'prods')
 

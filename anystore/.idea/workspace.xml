@@ -7,15 +7,238 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectId" id="1fDnARoVkzzYng24A8iiQiE2gpr" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/dict_to_json.py" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Documents\Geek\Django\anystore" />
+      <recent name="C:\Users\User\Documents\Geek\Django\anystore\mainapp" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Documents\Geek\Django\anystore" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.123">
+    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="anystore" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/anystore" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/anystore/1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="111" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="anystore" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mainapp" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\User\Documents\Geek\Django\anystore\111.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="123" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="anystore" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mainapp" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mainapp/123.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="anystore" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Phyton\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="anystore" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="true" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="anystore" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="anystore" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Phyton\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="true" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dict_from_json" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="anystore" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dict_from_json.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dict_to_json" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="anystore" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dict_to_json.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="views" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="anystore" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Phyton\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mainapp" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mainapp/views.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="true" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.anystore" />
+      <item itemvalue="Python.111" />
+      <item itemvalue="Python.1" />
+      <item itemvalue="Python.dict_from_json" />
+      <item itemvalue="Python.views" />
+      <item itemvalue="Python.123" />
+      <item itemvalue="Python.dict_to_json" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.123" />
+        <item itemvalue="Python.dict_to_json" />
+        <item itemvalue="Python.dict_from_json" />
+        <item itemvalue="Python.views" />
+        <item itemvalue="Python.1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -31,9 +254,88 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2214" y="226" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595761712587">
+    <state x="2214" y="226" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596203364598">
       <screen x="1920" y="64" width="1680" height="1010" />
     </state>
-    <state x="2214" y="226" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.40.1920.1040/1920.64.1680.1010@1920.64.1680.1010" timestamp="1595761712587" />
+    <state x="2214" y="226" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.40.1920.1040/1920.64.1680.1010@1920.64.1680.1010" timestamp="1596203364598" />
+    <state x="2519" y="378" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596114968756">
+      <screen x="1920" y="64" width="1680" height="1010" />
+    </state>
+    <state x="2519" y="378" key="#com.intellij.fileTypes.FileTypeChooser/0.40.1920.1040/1920.64.1680.1010@1920.64.1680.1010" timestamp="1596114968756" />
+    <state x="2489" y="358" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1596203348453">
+      <screen x="1920" y="64" width="1680" height="1010" />
+    </state>
+    <state x="2489" y="358" key="#com.intellij.ide.util.TreeClassChooserDialog/0.40.1920.1040/1920.64.1680.1010@1920.64.1680.1010" timestamp="1596203348453" />
+    <state x="2440" y="307" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1595846311872">
+      <screen x="1920" y="64" width="1680" height="1010" />
+    </state>
+    <state x="2440" y="307" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.40.1920.1040/1920.64.1680.1010@1920.64.1680.1010" timestamp="1595846311872" />
+    <state x="2482" y="374" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog.inPresentationMode" timestamp="1596115335042">
+      <screen x="1920" y="64" width="1680" height="1010" />
+    </state>
+    <state x="2482" y="374" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog.inPresentationMode/0.40.1920.1040/1920.64.1680.1010@1920.64.1680.1010" timestamp="1596115335042" />
+    <state x="2522" y="449" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1596115044251">
+      <screen x="1920" y="64" width="1680" height="1010" />
+    </state>
+    <state x="2522" y="449" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.40.1920.1040/1920.64.1680.1010@1920.64.1680.1010" timestamp="1596115044251" />
+    <state x="2540" y="326" key="FileChooserDialogImpl" timestamp="1596203363651">
+      <screen x="1920" y="64" width="1680" height="1010" />
+    </state>
+    <state x="2540" y="326" key="FileChooserDialogImpl/0.40.1920.1040/1920.64.1680.1010@1920.64.1680.1010" timestamp="1596203363651" />
+    <state width="1659" height="272" key="GridCell.Tab.0.bottom" timestamp="1596273601436">
+      <screen x="1920" y="64" width="1680" height="1010" />
+    </state>
+    <state width="1659" height="272" key="GridCell.Tab.0.bottom/0.40.1920.1040/1920.64.1680.1010@1920.64.1680.1010" timestamp="1596273601436" />
+    <state width="1659" height="272" key="GridCell.Tab.0.center" timestamp="1596273601436">
+      <screen x="1920" y="64" width="1680" height="1010" />
+    </state>
+    <state width="1659" height="272" key="GridCell.Tab.0.center/0.40.1920.1040/1920.64.1680.1010@1920.64.1680.1010" timestamp="1596273601436" />
+    <state width="1659" height="272" key="GridCell.Tab.0.left" timestamp="1596273601436">
+      <screen x="1920" y="64" width="1680" height="1010" />
+    </state>
+    <state width="1659" height="272" key="GridCell.Tab.0.left/0.40.1920.1040/1920.64.1680.1010@1920.64.1680.1010" timestamp="1596273601436" />
+    <state width="1659" height="272" key="GridCell.Tab.0.right" timestamp="1596273601436">
+      <screen x="1920" y="64" width="1680" height="1010" />
+    </state>
+    <state width="1659" height="272" key="GridCell.Tab.0.right/0.40.1920.1040/1920.64.1680.1010@1920.64.1680.1010" timestamp="1596273601436" />
+    <state width="1659" height="336" key="GridCell.Tab.1.bottom" timestamp="1595934636086">
+      <screen x="1920" y="64" width="1680" height="1010" />
+    </state>
+    <state width="1659" height="336" key="GridCell.Tab.1.bottom/0.40.1920.1040/1920.64.1680.1010@1920.64.1680.1010" timestamp="1595934636086" />
+    <state width="1659" height="336" key="GridCell.Tab.1.center" timestamp="1595934636085">
+      <screen x="1920" y="64" width="1680" height="1010" />
+    </state>
+    <state width="1659" height="336" key="GridCell.Tab.1.center/0.40.1920.1040/1920.64.1680.1010@1920.64.1680.1010" timestamp="1595934636085" />
+    <state width="1659" height="336" key="GridCell.Tab.1.left" timestamp="1595934636085">
+      <screen x="1920" y="64" width="1680" height="1010" />
+    </state>
+    <state width="1659" height="336" key="GridCell.Tab.1.left/0.40.1920.1040/1920.64.1680.1010@1920.64.1680.1010" timestamp="1595934636085" />
+    <state width="1659" height="336" key="GridCell.Tab.1.right" timestamp="1595934636085">
+      <screen x="1920" y="64" width="1680" height="1010" />
+    </state>
+    <state width="1659" height="336" key="GridCell.Tab.1.right/0.40.1920.1040/1920.64.1680.1010@1920.64.1680.1010" timestamp="1595934636085" />
+    <state x="2416" y="220" key="SettingsEditor" timestamp="1596203244702">
+      <screen x="1920" y="64" width="1680" height="1010" />
+    </state>
+    <state x="2416" y="220" key="SettingsEditor/0.40.1920.1040/1920.64.1680.1010@1920.64.1680.1010" timestamp="1596203244702" />
+    <state x="2012" y="156" width="1496" height="826" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1596115980390">
+      <screen x="1920" y="64" width="1680" height="1010" />
+    </state>
+    <state x="2012" y="156" width="1496" height="826" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.40.1920.1040/1920.64.1680.1010@1920.64.1680.1010" timestamp="1596115980390" />
+    <state x="2334" y="307" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1595855905617">
+      <screen x="1920" y="64" width="1680" height="1010" />
+    </state>
+    <state x="2334" y="307" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.40.1920.1040/1920.64.1680.1010@1920.64.1680.1010" timestamp="1595855905617" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/dict_from_json.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

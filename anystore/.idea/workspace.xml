@@ -7,6 +7,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectId" id="1fDnARoVkzzYng24A8iiQiE2gpr" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
@@ -15,7 +22,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Django.git/anystore/mainapp/templates/mainapp/index.html" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -35,5 +45,17 @@
       <screen x="1920" y="64" width="1680" height="1010" />
     </state>
     <state x="2214" y="226" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.40.1920.1040/1920.64.1680.1010@1920.64.1680.1010" timestamp="1595761712587" />
+    <state x="2440" y="307" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1595846311872">
+      <screen x="1920" y="64" width="1680" height="1010" />
+    </state>
+    <state x="2440" y="307" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.40.1920.1040/1920.64.1680.1010@1920.64.1680.1010" timestamp="1595846311872" />
+    <state x="2540" y="326" key="FileChooserDialogImpl" timestamp="1595852149009">
+      <screen x="1920" y="64" width="1680" height="1010" />
+    </state>
+    <state x="2540" y="326" key="FileChooserDialogImpl/0.40.1920.1040/1920.64.1680.1010@1920.64.1680.1010" timestamp="1595852149009" />
+    <state x="2263" y="214" key="SettingsEditor" timestamp="1595850788732">
+      <screen x="1920" y="64" width="1680" height="1010" />
+    </state>
+    <state x="2263" y="214" key="SettingsEditor/0.40.1920.1040/1920.64.1680.1010@1920.64.1680.1010" timestamp="1595850788732" />
   </component>
 </project>
